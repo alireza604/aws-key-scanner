@@ -14,7 +14,7 @@ A simple Python tool for bug bounty hunters to scan text files or directories fo
 - No external libraries needed (uses built-in `re` and `os`).
 
 ## Installation
-1. Clone the repo: git clone https://github.com/your-username/aws-key-scanner.git
+1. Clone the repo: git clone https://github.com/alireza604/aws-key-scanner.git
 2. Navigate to the directory: cd aws-key-scanner
 
    
